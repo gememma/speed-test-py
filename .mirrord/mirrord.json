@@ -1,0 +1,11 @@
+{
+    "feature": {
+        "network": {
+            "incoming": "steal",
+            "outgoing": true
+        },
+        "fs": "local"
+    },
+    "target": "deployment/tcp-echo-deployment",
+    "operator": false
+}
